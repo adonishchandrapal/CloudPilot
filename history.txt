@@ -1,0 +1,17 @@
+chat application
+blog
+ecommerce
+python -u "c:\Users\singh\OneDrive\Desktop\CloudPilot\app.py"
+python -u "c:\Users\singh\OneDrive\Desktop\CloudPilot\app.py"
+python -u "c:\Users\singh\OneDrive\Desktop\CloudPilot\app.py"
+python -u "c:\Users\singh\OneDrive\Desktop\CloudPilot\app.py"
+chat
+python -u "c:\Users\singh\OneDrive\Desktop\CloudPilot\app.py"
+blog
+python -u "c:\Users\singh\OneDrive\Desktop\CloudPilot\app.py"
+blog
+ecommerce
+Chat
+video streaming
+video streaming
+video
