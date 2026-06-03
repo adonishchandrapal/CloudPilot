@@ -66,13 +66,15 @@ cd CloudPilot
 
 pip install -r requirements.txt
 
+4. Run the application
+
+streamlit run web_app.py
+
+
 ## 🚀 Live Demo
 
 [Open CloudPilot](https://cloudpilot-ivftzrcdbfnc6qmsoz4fk8.streamlit.app/)
 
-4. Run the application
-
-streamlit run web_app.py
 
 ## Example Output
 
