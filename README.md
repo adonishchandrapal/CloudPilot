@@ -66,6 +66,10 @@ cd CloudPilot
 
 pip install -r requirements.txt
 
+## 🚀 Live Demo
+
+[Open CloudPilot](https://your-app-url.streamlit.app)
+
 4. Run the application
 
 streamlit run web_app.py
