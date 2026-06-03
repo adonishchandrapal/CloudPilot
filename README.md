@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 ## 🚀 Live Demo
 
-[Open CloudPilot](https://your-app-url.streamlit.app)
+[Open CloudPilot](https://cloudpilot-ivftzrcdbfnc6qmsoz4fk8.streamlit.app/)
 
 4. Run the application
 
