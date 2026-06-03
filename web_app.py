@@ -47,3 +47,12 @@ if st.button("Generate Recommendation"):
         f"{result['backend']} -> "
         f"{result['database']}"
     )
+    st.write(result)
+
+    if "terraform" in result:
+        st.write("### Terraform Template")
+
+        st.code(
+            result["terraform"],
+            language="terraform"
+        )
