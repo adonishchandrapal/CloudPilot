@@ -84,6 +84,20 @@ Estimated Cost: 45$/month
 
 Scale: Medium
 
+## Docker Support
+
+Build Docker Image:
+
+```bash
+docker build -t cloudpilot .
+```
+
+Run Docker Container:
+
+```bash
+docker run -p 8501:8501 cloudpilot
+```
+
 ## Future Improvements
 
 * Terraform Generator
