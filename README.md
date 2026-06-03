@@ -1,198 +1,98 @@
-\# ☁️ CloudPilot
-
-
+# ☁️ CloudPilot
 
 CloudPilot is a Cloud Infrastructure Recommendation System built using Python and Streamlit.
 
-
-
 It helps users choose the right cloud architecture based on their application type, expected traffic, and cloud provider.
 
+## Features
 
+* Multi-Cloud Support
 
-\## Features
+  * AWS
+  * Microsoft Azure
+  * Google Cloud
 
+* Application Recommendations
 
+  * Chat Applications
+  * E-commerce Platforms
+  * Blogs
+  * Video Streaming Platforms
 
-\* Multi-Cloud Support
+* Cost Estimation
 
+* Scale Classification
 
+  * Small
+  * Medium
+  * Large
 
-&#x20; \* AWS
+* Architecture Summary Generation
 
-&#x20; \* Microsoft Azure
+## Technologies Used
 
-&#x20; \* Google Cloud
+* Python
+* Streamlit
+* Git
+* GitHub
 
-
-
-\* Application Recommendations
-
-
-
-&#x20; \* Chat Applications
-
-&#x20; \* E-commerce Platforms
-
-&#x20; \* Blogs
-
-&#x20; \* Video Streaming Platforms
-
-
-
-\* Cost Estimation
-
-
-
-\* Scale Classification
-
-
-
-&#x20; \* Small
-
-&#x20; \* Medium
-
-&#x20; \* Large
-
-
-
-\* Architecture Summary Generation
-
-
-
-\## Technologies Used
-
-
-
-\* Python
-
-\* Streamlit
-
-\* Git
-
-\* GitHub
-
-
-
-\## Project Structure
-
-
+## Project Structure
 
 CloudPilot/
 
-
-
 ├── app.py
 
+├── web_app.py
 
-
-├── web\_app.py
-
-
-
-├── cloud\_recommender.py
-
-
+├── cloud_recommender.py
 
 ├── requirements.txt
 
-
-
 ├── README.md
-
-
 
 └── history.txt
 
+## How to Run
 
-
-\## How to Run
-
-
-
-1\. Clone the repository
-
-
+1. Clone the repository
 
 git clone https://github.com/adonishchandrapal/CloudPilot.git
 
-
-
-2\. Move into the project directory
-
-
+2. Move into the project directory
 
 cd CloudPilot
 
-
-
-3\. Install dependencies
-
-
+3. Install dependencies
 
 pip install -r requirements.txt
 
+4. Run the application
 
+streamlit run web_app.py
 
-4\. Run the application
-
-
-
-streamlit run web\_app.py
-
-
-
-\## Example Output
-
-
+## Example Output
 
 Cloud Provider: Google Cloud
 
-
-
 Frontend: Cloud CDN
-
-
 
 Backend: Cloud Run
 
-
-
 Database: Firestore
-
-
 
 Estimated Cost: 45$/month
 
-
-
 Scale: Medium
 
+## Future Improvements
 
+* Terraform Generator
+* Docker Support
+* Real Cloud Pricing APIs
+* AI Application Recommendations
+* Kubernetes Recommendations
 
-\## Future Improvements
-
-
-
-\* Terraform Generator
-
-\* Docker Support
-
-\* Real Cloud Pricing APIs
-
-\* AI Application Recommendations
-
-\* Kubernetes Recommendations
-
-
-
-\## Author
-
-
+## Author
 
 Adonish Chandrapal
-
 Aspiring Cloud Engineer
-
-
-
